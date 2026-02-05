@@ -1,5 +1,5 @@
 {
-  "engine":{
+  "engine": {
     "node": "v22.20.0"
   },
   "name": "majorproject",
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cloudinary": "^2.8.0",
+    "cloudinary": "^1.41.3",
     "connect": "^3.7.0",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^6.0.0",
